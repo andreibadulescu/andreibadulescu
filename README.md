@@ -1,13 +1,13 @@
 ### <b> Hey there! 👋🏻 </b>
 
-My name is Andrei, and I am a Lead Developer @ <i>Obelisk Technologies</i>.
+My name is Andrei, and I currently work as a beginner iOS developer!
 
-I am currently an 11th grade student at <i>Colegiul Național „Grigore Moisil”</i>, pursuing in the future a serious career in Computer Science. Take a look over my repositories, and please do not hesitate to contact me about any curiosities you may have!
+I am currently an 11th grade student at <i>„Grigore Moisil” National College</i>, pursuing a serious career in Computer Science. Take a look over my repositories, and do not hesitate to contact me with regard to any questions you may have!
 
 ## Experience 🗂️
 
 ### Programming Languages 
-Proficient in <b>Swift</b>, familiar with <b>C++</b> and <b>AppleScript</b>.
+Proficient in <b>Swift</b>, familiar with <b>C++</b>.
 
 ### Frameworks
 - SwiftUI
@@ -15,7 +15,6 @@ Proficient in <b>Swift</b>, familiar with <b>C++</b> and <b>AppleScript</b>.
 - Core Data
 - Accelerate
 - CloudKit
-- StoreKit
 
 ### Tools & Design
 - Xcode 14
@@ -26,5 +25,5 @@ Proficient in <b>Swift</b>, familiar with <b>C++</b> and <b>AppleScript</b>.
 ## Contact ✉️
 
 Reach me via: 
-- <b>E-mail</b> 📬 : andreibad25@outlook.com
+- <b>E-mail</b> 📬 : andrei.badulescu@icloud.com
 - <b>Instagram</b> 👨🏻‍💻 : @ardeibad
