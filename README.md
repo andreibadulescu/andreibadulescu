@@ -2,7 +2,7 @@
 
 My name is Andrei, and I currently work as a part-time Systems Administrator, and in my free time I build iOS applications.
 
-I am currently a 1st year student at <i>Universitatea Politehnica București</i>, pursuing a serious career in Computer Science. Take a look over my repositories, and do not hesitate to contact me in case any questions arise!
+I am a 1st year Computer Science student at <i>Universitatea Politehnica București</i>, trying to blend work with studying and transforming my dreams into reality. Take a look over my repositories, and do not hesitate to contact me in case any questions arise!
 
 ## Experience 🗂️
 
