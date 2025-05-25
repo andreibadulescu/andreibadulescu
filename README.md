@@ -20,7 +20,7 @@ Proficient in <b>Swift</b>, familiar with <b>C++</b>, <b>C</b>, <b>NASM</b>, <b>
 - CloudKit
 
 ### Tools & Design
-- Xcode 14
+- Xcode
 - Sublime Text
 - Visual Studio Code
 - Adobe Illustrator
