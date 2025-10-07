@@ -2,7 +2,7 @@
 
 My name is Andrei, I currently work as a part-time Systems Administrator and in my free time I build iOS applications.
 
-I am a 1st year Computer Science student at <i>Universitatea Politehnica București</i>, trying to blend work with studying and transforming my dreams into reality. Take a look over my repositories, and do not hesitate to contact me in case any questions arise!
+I am a 2nd year Computer Science student at <i>Universitatea Politehnica București</i>, trying to blend work with studying and transforming my dreams into reality. Take a look over my repositories, and do not hesitate to contact me in case any questions arise!
 
 ## Experience 🗂️
 
@@ -10,7 +10,7 @@ I am a 1st year Computer Science student at <i>Universitatea Politehnica Bucure�
 Employed since September 2024 as a Systems Administrator at CONSTRUCȚII ȘI INSTALAȚII IMPULS.
 
 ### Programming Languages 
-Proficient in <b>Swift</b>, familiar with <b>C++</b>, <b>C</b>, <b>NASM</b>, <b>Python</b> and <b>MatLab</b>.
+Familiar with <b>Swift</b>, <b>C++</b>, <b>C</b>, <b>C#<b/>, <b>NASM</b>, <b>Python</b> and <b>MatLab</b>.
 
 ### Frameworks
 - SwiftUI
