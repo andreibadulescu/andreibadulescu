@@ -6,25 +6,8 @@ I am a 2nd year Computer Science student at <i>Universitatea Politehnica Bucure�
 
 ## Experience 🗂️
 
-### Work Experience
-Employed since September 2024 as a Systems Administrator at CONSTRUCȚII ȘI INSTALAȚII IMPULS.
-
 ### Programming Languages 
-Familiar with <b>Swift</b>, <b>C++</b>, <b>C</b>, <b>C#<b/>, <b>NASM</b>, <b>Python</b> and <b>MatLab</b>.
-
-### Frameworks
-- SwiftUI
-- Core ML
-- Core Data
-- Accelerate
-- CloudKit
-
-### Tools & Design
-- Xcode
-- Sublime Text
-- Visual Studio Code
-- Adobe Illustrator
-- Adobe Fresco
+Familiar with <b>Swift</b>, <b>C++</b>, <b>C</b>, <b>C#<b/>, <b>NASM</b>, <b>Python</b> and <b>Java</b>.
 
 ## Contact ✉️
 
